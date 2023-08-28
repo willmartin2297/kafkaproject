@@ -1,0 +1,16 @@
+2023-08-28 09:55:31 Produced message on topic uv_index with value of {"uv_min": 1.724, "uv_min_time": 1693212917, "uv_max": 4.3347, "uv_max_time": 1693225544, "sunrise_time": 1693200183, "sunset_time": 1693250905}
+
+2023-08-28 09:55:34 Produced message on topic uv_index with value of {"uv_min": 2.325, "uv_min_time": 1693212921, "uv_max": 5.0341, "uv_max_time": 1693224205, "sunrise_time": 1693199243, "sunset_time": 1693249167}
+
+2023-08-28 09:55:38 Produced message on topic uv_index with value of {"uv_min": 0, "uv_min_time": 1693212924, "uv_max": 5.8222, "uv_max_time": 1693243231, "sunrise_time": 1693219077, "sunset_time": 1693267384}
+
+2023-08-28 09:55:40 Produced message on topic uv_index with value of {"uv_min": 0, "uv_min_time": 1693212927, "uv_max": 5.0637, "uv_max_time": 1693238182, "sunrise_time": 1693217975, "sunset_time": 1693258390}
+
+2023-08-28 09:55:43 Produced message on topic uv_index with value of {"uv_min": 13.1616, "uv_min_time": 1693212930, "uv_max": 13.6148, "uv_max_time": 1693215336, "sunrise_time": 1693193587, "sunset_time": 1693237086}
+
+2023-08-28 09:55:46 Produced message on topic uv_index with value of {"uv_min": 7.9502, "uv_min_time": 1693212933, "uv_max": 12.1765, "uv_max_time": 1693205189, "sunrise_time": 1693182443, "sunset_time": 1693227935}
+
+2023-08-28 09:55:49 Produced message on topic uv_index with value of {"uv_min": 0.0493, "uv_min_time": 1693212935, "uv_max": 7.5266, "uv_max_time": 1693190614, "sunrise_time": 1693167022, "sunset_time": 1693214206}
+
+2023-08-28 09:55:52 Produced message on topic uv_index with value of {"uv_min": 0, "uv_min_time": 1693212939, "uv_max": 6.9256, "uv_max_time": 1693187430, "sunrise_time": 1693166863, "sunset_time": 1693207997}
+
